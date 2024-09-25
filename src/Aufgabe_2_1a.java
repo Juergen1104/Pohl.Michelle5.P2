@@ -1,7 +1,9 @@
 public class Aufgabe_2_1a {
     /* *** Aufgabenteil (a)  *** */
 	/*
-	   // TODO
+	    Die Funktion f1(a, b) zählt die ganzen Zahlen im Bereich von a bis b , die durch 4 teilbar sind.
+        Die Funktion könnte also wie folgt beschrieben werden:
+        f1(a,b) = Anzahl der Werte von i im Bereich [a, b], für die gilt: i%4 == 0
 	 */
 
 

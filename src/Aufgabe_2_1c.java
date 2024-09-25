@@ -1,8 +1,17 @@
 public class Aufgabe_2_1c {
     public static void main(String[] args){
 	/* *** Aufgabenteil (c)  *** */
-	/* 
-	   // TODO
+	/*
+
+	1. Schleife:
+	x zählt, wie oft die innere Schleife der ersten Schleifenstruktur durchläuft.
+    y summiert die Werte von b in den äußeren Schleifen.
+
+	2. Schleife:
+	z zählt, wie oft die innere Schleife durchlaufen wird.
+	y wird um a pro durchlauf erhöht
+
+	die Summe von x, x und z wird am Ende ausgegeben
 	 */
 	int a = IOTools.readInteger("a = ");
 	int b = IOTools.readInteger("b = ");

@@ -2,7 +2,9 @@ public class Aufgabe_2_1b {
     public static void main(String[] args){
 	/* *** Aufgabenteil (b)  *** */
 	/* 
-	   // TODO
+	Die Funktion r2 berechnet die Summe von "Paaren" (oberes und unteres Element),
+	die sich durch die Schleife aufeinander zu bewegen. Wenn es eine ungerade Anzahl
+	von Elementen gibt, wird der mittlere Wert noch einmal hinzugefügt
 	 */
 	int n = IOTools.readInteger("n = ");
 	int a = n;
